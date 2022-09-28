@@ -2,10 +2,10 @@
 title: Political Philosophy
 description: Treatise on Ontology and Political Philosophy
 url:
-avatar: /avatar.jpeg
+avatar: /avatar.jpg 
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bgr.jpg
 
 # Gems
 plugins:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: rangerhost.earlybuild.io
+  name: rangerhost.github.io
   url: https://github.com/RangerHost
   email: forestrangercomm@gmail.com

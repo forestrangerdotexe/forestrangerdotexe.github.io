@@ -6,7 +6,8 @@ avatar: /temp1.1.png
 paginate: 5
 permalink: pretty
 cover_image: /bgr.jpg
-cover_color: rgb(200, 200, 200)
+cover_bg_color: rgb(40, 73, 77)
+cover_color: rgb(150, 200, 150)
 
 # Gems
 plugins:

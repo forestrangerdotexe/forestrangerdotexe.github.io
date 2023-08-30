@@ -1,12 +1,12 @@
 # Setup
 title: New Social Project
 description: for Revolutionary Anticollectivism
-url:
+url: https://newsocialproject.github.io
 avatar: /temp1.1.png
 paginate: 5
 permalink: pretty
 cover_image: /bgr.jpg
-cover_color: rgb(000, 000, 000)
+cover_color: rgb(200, 200, 200)
 
 # Gems
 plugins:
@@ -55,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: newsocialproject.github.io
+  name: forestranger.github.io
   url: https://github.com/RangerHost
   email: forestrangercomm@gmail.com

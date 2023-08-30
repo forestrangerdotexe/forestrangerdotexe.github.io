@@ -7,7 +7,7 @@ paginate: 5
 permalink: pretty
 cover_image: /bgr.jpg
 cover_bg_color: rgb(240, 273, 277)
-cover_color: rgb(220, 200, 150)
+cover_color: rgb(200, 200, 100)
 
 # Gems
 plugins:

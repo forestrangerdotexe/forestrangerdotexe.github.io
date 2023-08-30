@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: rangerhost.github.io
-  url: https://github.com/NewSocialProject
+  name: newsocialproject.github.io
+  url: https://github.com/RangerHost
   email: forestrangercomm@gmail.com

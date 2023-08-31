@@ -5,9 +5,9 @@ url: https://newsocialproject.github.io
 avatar: /temp1.1.png
 paginate: 5
 permalink: pretty
-cover_image: /bgi.png 
+cover_image: /bgi.jpg 
 cover_bg_color: rgb(240, 273, 277)
-cover_color: rgb(000, 000, 000)
+cover_color: rgb(255, 255, 255)
 
 # Gems
 plugins:

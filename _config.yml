@@ -2,13 +2,11 @@
 title: New Social Project
 description: for Revolutionary Anticollectivism
 url: https://newsocialproject.github.io
-baseurl: /rangerhost.github.io
+baseurl: https://github.com/RangerHost/rangerhost.github.io
 avatar: /temp1.1.png
 paginate: 5
 permalink: pretty
 cover_image: /bgi.jpg 
-cover_bg_color: rgb(240, 273, 277)
-cover_color: rgb(255, 255, 255)
 
 # Gems
 plugins:
